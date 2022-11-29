@@ -2,3 +2,4 @@ Archivo 1 del repositorio
 cambio en la branch nueva
 Cambio en la rama otra
 registro grado en Nueva para merge
+nuevo registro para mege con conflictos
