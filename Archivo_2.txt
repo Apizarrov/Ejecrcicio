@@ -1,2 +1,4 @@
 Archivo 2 del repositorio
 cambio en la branch nueva
+1.- Este es un cambio realizado en la rama main
+2.- y corresponde a la creacion de dos nuevas lineas
