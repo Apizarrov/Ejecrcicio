@@ -1,4 +1,5 @@
 prueba de merge con conflictos con rama nueva
+otra prueba
 Archivo 1 del repositorio
 cambio en la branch nueva
 Cambio en la rama otra
